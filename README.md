@@ -24,6 +24,6 @@ For my individual analysis, I focused on 3 weeks of company data. I used Python 
 - Microsoft Excel
 - Tabeau
 
-## Click the link to watch My Project Presentation Video
+## Click to watch My Project Presentation Video
 
-[Watch on YouTube](https://youtu.be/-Psp_IWKxXc?si=opPn-B6dul3TTBTI)
+[![Watch on YouTube](https://img.youtube.com/vi/-Psp_IWKxXc/0.jpg)](https://youtu.be/-Psp_IWKxXc?si=opPn-B6dul3TTBTI)
