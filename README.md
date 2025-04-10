@@ -8,7 +8,7 @@ This project was completed as part of an undergraduate capstone course, where we
 
 Throughout the simulation, our team made strategic decisions in areas like marketing, production, R&D, and finance over multiple simulated weeks. 
 
-For my individual analysis, I focused on 3 weeks of company data. I used Python and data visualization tools to explore and explain key patterns and trends from our business performance. My analysis highlights the impact of our decisions over time, using charts and visuals for clarity.
+For my individual analysis, I focused on 3 weeks of company data. I used Excel and Tabeau to explore and explain key patterns and trends from our business performance. My analysis highlights the impact of our decisions over time, using charts and visuals for clarity.
 
 ---
 
